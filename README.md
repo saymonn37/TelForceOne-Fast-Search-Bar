@@ -1,5 +1,4 @@
 # TelForceOne-Fast-Search-Bar
-# TFOFastSearchBar
 
 ## Description
 TFOFastSearchBar is a UserScript designed to enhance the search functionality on the website https://sklep.telforceone.pl/pl-pl/. The script provides additional features and improves the user experience by removing unnecessary elements and adding event listeners to the search elements.
