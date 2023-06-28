@@ -20,7 +20,7 @@ The UserScript will automatically run on the designated website (https://sklep.t
 This UserScript is compatible with most modern web browsers that support UserScript extensions such as Greasemonkey or Tampermonkey.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 This UserScript was created by Saymonn.
